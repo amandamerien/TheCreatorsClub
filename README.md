@@ -6,7 +6,6 @@ Página exibida depois da compra do The Creators Club. É um arquivo HTML único
 
 Troque no `index.html`:
 
-- `https://SUA-AREA-DE-MEMBROS.com` → link da área de membros
 - `suporte@seudominio.com` (2x, no rodapé) → e-mail de suporte
 
 ## Ver localmente
