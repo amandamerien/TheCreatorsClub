@@ -1,12 +1,6 @@
 # The Creators Club — Página de Obrigado
 
-Página exibida depois da compra do The Creators Club. É um arquivo HTML único (`index.html`), sem dependências além das fontes do Google Fonts (Bebas Neue e Inter).
-
-## Antes de publicar
-
-Troque no `index.html`:
-
-- `suporte@seudominio.com` (2x, no rodapé) → e-mail de suporte
+Página exibida depois da compra do The Creators Club. É o `index.html` mais a pasta `img` (selo de garantia e favicons). Usa as fontes Bebas Neue e Inter do Google Fonts.
 
 ## Ver localmente
 
